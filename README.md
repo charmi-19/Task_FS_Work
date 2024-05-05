@@ -1,3 +1,8 @@
+# Requirements of the task
+```
+You can find it in the Task_FS.pdf file
+```
+
 # How to run the project
 
 ## Backend
